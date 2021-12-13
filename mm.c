@@ -25,6 +25,8 @@ team_t team = {
     ""
 };
 
+// 깃 테스트
+
 // 가용 리스트 조작을 위한 기본 상수 및 매크로 정의
 /* single word (4) or double word (8) alignment */
 #define ALIGNMENT 8
